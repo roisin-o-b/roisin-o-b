@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I used to be an Astronomer!
+- 🌱 I’m currently completing a course on AI and Machine Learning.
+- 👯 I am actively seeking employment.
+- 💬 Ask me about black holes across the electromagnetic spectrum.
+- 📫 How to reach me: https://www.linkedin.com/roisinbrogan
+- 😄 Pronouns: she/they
+- ⚡ Fun fact: I am also a fine artist, mostly painting in acrylics.
+
 <!--
 **roisin-o-b/roisin-o-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

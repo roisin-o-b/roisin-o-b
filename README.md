@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I used to be an Astronomer!
-- 🌱 I’m currently completing a course on AI and Machine Learning.
+- 🌱 Just completed a course on AI and Machine Learning.
 - 👯 I am actively seeking employment.
 - 💬 Ask me about black holes across the electromagnetic spectrum.
 - 📫 How to reach me: https://www.linkedin.com/roisinbrogan

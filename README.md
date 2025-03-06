@@ -1,9 +1,22 @@
-## Hi there 👋
+## Welcome! 👋
 
-- 🔭 I used to be an Astronomer!
-- 🌱 Just completed a course on AI and Machine Learning.
-- 👯 I am actively seeking employment.
-- 💬 Ask me about black holes across the electromagnetic spectrum.
+I am a data scientist, AI enthusiast and former astrophysicist 🔭 experienced in building pipelines for image processing. Here you will find a few projects that i am working on. If you would like to collaborate on a project, need some data analysed or simply want to ask me about black holes, I am available for a coffee and a chat online or in Berlin (Germany). You can connect with me here: https://www.linkedin.com/roisinbrogan and you can look at my paintings here: https://www.instagram.com/roisinrourkeart
+
+<!--
+**roisin-o-b/roisin-o-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 - 📫 How to reach me: https://www.linkedin.com/roisinbrogan
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I am also a fine artist, mostly painting in acrylics.

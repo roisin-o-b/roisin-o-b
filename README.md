@@ -2,8 +2,6 @@
 
 I am a data scientist, AI enthusiast and former astrophysicist 🔭 mainly building pipelines for image processing.
 
-If you would like to collaborate on a project, need some data analysed or simply want to ask me about black holes, I am available for a coffee and a chat online or in Berlin (Germany). 
-
 You can connect with me here: https://www.linkedin.com/roisinbrogan 
 
 You can look at my paintings here!: https://www.instagram.com/roisinrourkeart

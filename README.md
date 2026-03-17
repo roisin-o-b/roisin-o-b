@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-I am a data scientist, AI enthusiast and former astrophysicist 🔭 mainly building pipelines for image processing.
+Data scientist, AI enthusiast and former astrophysicist 🔭
 
 You can connect with me here: https://www.linkedin.com/roisinbrogan 
 

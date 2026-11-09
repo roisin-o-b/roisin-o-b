@@ -4,8 +4,6 @@ Data scientist, AI enthusiast and former astrophysicist 🔭
 
 You can connect with me here: https://www.linkedin.com/roisinbrogan 
 
-You can look at my paintings here!: https://www.instagram.com/roisinrourkeart
-
 <!--
 **roisin-o-b/roisin-o-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
